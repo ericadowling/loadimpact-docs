@@ -1,7 +1,7 @@
 ---
 layout: classic-docs
 title: Custom metrics
-description: Custom metrics allow you to calculate and track non standard metrics in LoadImpact. 
+description: Custom metrics allow you to calculate and track non standard metrics in LoadImpact.
 categories: [core-concepts]
 order: 2
 redirect_from: /4.0/test-scripting/custom-metrics/
@@ -94,9 +94,9 @@ export default function() {
 };
 {% endhighlight %}
 
-Refer to k6 docs on [custom metrics](https://docs.k6.io/docs/result-metrics#section-custom-metrics) for additional information.
+See Also:
+- k6 docs on [custom metrics](https://docs.k6.io/docs/result-metrics#section-custom-metrics) for additional information.
 
-**Next**: [Ramping configurations]({{ site.baseurl }}/4.0/core-concepts/load-test-ramping-configurations/)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkwMTQ4Njc5OV19
 -->

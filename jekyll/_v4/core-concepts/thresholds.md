@@ -256,9 +256,10 @@ export let options = {
   </tbody>
 </table>
 
-See the k6 docs on [thresholds](https://docs.k6.io/docs/thresholds) for more information.
+See Also:
+- k6 docs on [thresholds](https://docs.k6.io/docs/thresholds) for more information.
 
-**Next**: [Tags]({{ site.baseurl }}/4.0/core-concepts/tags/)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzQyMTE1MjEyXX0=
 -->
